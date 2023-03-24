@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "fname": "GURURAJ",
+      "lname": "KULKARNI",
+      "dob": "1996-09-12",
+      "education": "BE",
+      "gender": "Male",
+      "number": "7353563239",
+      "email": "GURURAJKULKARNI115@GMAIL.COM",
+      "city": "BIDAR",
+      "destrict": "BIDAR",
+      "state": "KARNATKA",
+      "country": "INDIA",
+      "id": 1
+    },
+    {
+      "fname": "GURURAJ",
+      "lname": "KULKARNI",
+      "dob": "1996-09-12",
+      "education": "BE",
+      "gender": "Male",
+      "number": "7353563239",
+      "email": "GURURAJKULKARNI115@GMAIL.COM",
+      "city": "BIDAR",
+      "destrict": "BIDAR",
+      "state": "KARNATKA",
+      "country": "INDIA",
+      "id": 2
+    }
+  ]
+}

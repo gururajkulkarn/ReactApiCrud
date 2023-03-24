@@ -1,0 +1,57 @@
+{
+  "city": [
+    {
+      "id": "1",
+      "city": "Bidar",
+      "pic": "https://images.unsplash.com/photo-1679327970394-8593ba86023e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80"
+    },
+    {
+      "id": "2",
+      "city": "Humnabad",
+      "pic": "https://images.unsplash.com/photo-1679231926885-0287bbe32008?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1691&q=80"
+    },
+    {
+      "id": "3",
+      "city": "Aurad",
+      "pic": "https://images.unsplash.com/photo-1679327970407-8f56348d8819?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": "4",
+      "city": "Bhalki",
+      "pic": "https://images.unsplash.com/photo-1679236630000-efdb716ed708?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "5",
+      "city": "Gulbarga",
+      "pic": "https://images.unsplash.com/photo-1679335649136-bd9db9e89bef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+    },
+    {
+      "name": "dfgfdgdfg",
+      "id": "VXWp3-z"
+    },
+    {
+      "name": "gururaj kulkarni",
+      "id": "f3WFCuO"
+    },
+    {
+      "city": "hasan",
+      "pic": "C:\\fakepath\\8 (7).jpg",
+      "id": "5bUfmoH"
+    },
+    {
+      "city": "",
+      "pic": "",
+      "id": "V-8ta5L"
+    },
+    {
+      "city": "fghfghfghfghfgh",
+      "pic": "",
+      "id": "zHW7geE"
+    },
+    {
+      "city": "bidar123",
+      "pic": "C:\\fakepath\\ugadi.jpg",
+      "id": "p7G9Bws"
+    }
+  ]
+}
